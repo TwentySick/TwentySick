@@ -9,6 +9,9 @@
 <li>🎮 Noob gamer :3 (Just play for relaxing)</li>
 <li>♥ Relationship: ... Not found ...
 
+<h2 align="left"><br>My skills</h2>
+<p> What should I write here?</p>
+
 ##
 [![Twitter](https://img.shields.io/badge/-Twitter-08a0e9?logo=twitter&logoColor=e8f5fd&style=flat)](https://twitter.com/Just_Twentysick)
 [![Facebook](https://img.shields.io/badge/-Facebook-4267b3?logo=facebook&logoColor=e9ebee&style=flat)](https://www.facebook.com/CaoThanhDayNe/)
