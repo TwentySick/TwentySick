@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 <li> 🐟 My zodiac: ♓ Pisces ♓</li>
 <li>⚡ Like Arts, Music (The Beatles and PINK FLOYDDDDDDDDDDDDDDDDDDDDDDD)</li>
 <li>🎮 Noob gamer :3 (Just play for relaxing)</li>
+<li>♥ Relationship: ... Not found ...
 
 ##
 [![Twitter](https://img.shields.io/badge/-Twitter-08a0e9?logo=twitter&logoColor=e8f5fd&style=flat)](https://twitter.com/Just_Twentysick)
