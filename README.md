@@ -1,10 +1,7 @@
 <h1 align="center">🤘 Twenty Sick dope shit 🤘</h1>
 
-<!--
-**TwentySick/TwentySick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="center" src="https://github.com/TwentySick/TwentySick/blob/2ab2b7cc0a4ca3febdaf974748b0ef76c3c94133/StarryNight.gif">
 
-Here are some ideas to get you started:
--->
 <h2 align="left">A little shit about me</h2>
 <li>🏫 Student from FPT University</li>
 <li>🌱 Learning cybersecurity</li>
