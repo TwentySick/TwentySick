@@ -1,9 +1,9 @@
 <h1 align="center">🤘 Twenty Sick dope shit 🤘</h1>
 
-
+<img align="center" src="https://github.com/TwentySick/TwentySick/blob/776c8cef8d9019bc9e1da43247f6d58e3d856444/StarryNight.gif">
 
 <h2 align="left">A little shit about me</h2>
-<img align="right" src="https://github.com/TwentySick/TwentySick/blob/2ab2b7cc0a4ca3febdaf974748b0ef76c3c94133/StarryNight.gif" width=30% height=30%>
+<img align="left" src="https://github.com/TwentySick/TwentySick/blob/776c8cef8d9019bc9e1da43247f6d58e3d856444/Image.jpg" width=20% height=20%>
 <li>🏫 Student from FPT University</li>
 <li>🌱 Learning cybersecurity</li>
 <li> 🐟 My zodiac: ♓ Pisces ♓</li>
