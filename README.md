@@ -14,10 +14,6 @@
 
 <h2> Another things </h2>
  
- - 2022: Member of `_r4nd0m_` team
- - 2022: Member of `simpwaifu` team
- - 12/2022: Deputy Chairman of the EThical Hacker Club from FPTU
-  
 <h2 align="left"> asdf </h2>
  
 ##
