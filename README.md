@@ -1,11 +1,9 @@
-<h1 align="center">🤘 Twenty Sick dope shit 🤘</h1>
-
 <h2 align="left">A little shit about me</h2>
-<img align="left" src="https://github.com/TwentySick/TwentySick/blob/776c8cef8d9019bc9e1da43247f6d58e3d856444/Image.jpg" width=20% height=20%>
+<img align="left" src="https://user-images.githubusercontent.com/94169830/220444670-cfe5d476-b314-4525-b2ab-cb60bfa30bc3.gif" width=20% height=20%>
 <li>🏫 Student from FPT University</li>
 <li>🌱 Learning cybersecurity</li>
 <li> 🐟 My zodiac: ♓ Pisces ♓</li>
-<li>⚡ Like Arts, Music (The Beatles and PINK FLOYDDDDDDDDDDDDDDDDDDDDDDD)</li>
+<li> Like Arts, Music (The Beatles and PINK FLOYDDDDDDDDDDDDDDDDDDDDDDD)</li>
 <li>🎮 Noob gamer :3 (Just play for relaxing)</li>
 <li>♥ Relationship: ... Not found ...
 
