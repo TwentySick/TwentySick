@@ -1,25 +1,9 @@
 <h2><b> A little shit about me </b></h2>
-<div id="information">
-    <div id="infor_animation" style="float: left; height: 200px; width: 10%">
-        <svg width="200" height="200"><rect x="0" y="0" width="60%" height="60%" fill="#000000" stroke-width="0" />
-            <rect x="20%" y="30%" width="10%" height="10%" fill="#ffffff" />
-            <rect x="40%" y="30%" width="10%" height="10%" fill="#ffffff" />
-            <rect x="20%" y="60%" width="20%" height="10%" fill="#000000" stroke-width="0" />
-            <rect x="10%" y="70%" width="40%" height="10%" fill="#000000" stroke-width="0" />
-            <rect x="0%"   y="80%" width="60%" height="20%" fill="#000000" stroke-width="0" />
-            <rect x="0%" y="20%" width="60%" height="10%" fill="#000000">
-                <animate
-                id="op"
-                attributeName="height"
-                values="10%;20%;10%"
-                begin="3s;op.end+3s"
-                dur="0.2s"
-                repeatCount="0"
-                fill="freeze"
-                />
-        </svg>
+<div id="information" style="height: 175px">
+    <div style="float: left; width: 10%">
+        <img align="left" src="char_animation.svg" width=100% height=100%>
     </div>
-    <div id="infor_text" style="float: right; height: 200px; width: 90%">
+    <div style="float: right; width: 90%">
         <li>🏫 Student from FPT University</li>
         <li>🌱 Learning cybersecurity</li>
         <li> 🐟 My zodiac: ♓ Pisces ♓</li>
