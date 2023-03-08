@@ -36,6 +36,5 @@
 <p>... To be continued ...</p>
 
 ---
-##
 [![Twitter](https://img.shields.io/badge/-Twitter-08a0e9?logo=twitter&logoColor=e8f5fd&style=flat)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
 [![Facebook](https://img.shields.io/badge/-Facebook-4267b3?logo=facebook&logoColor=e9ebee&style=flat)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
