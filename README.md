@@ -17,7 +17,7 @@
 <p> What should I write here?</p>
 
 <h2><b>Another things</b></h2>
-<p>... To be continued ...</p>
+<li><a href="https://github.com/TwentySick/CTF">CTF Writeup</a></li>
 
 ---
 [![Twitter](https://img.shields.io/badge/-Twitter-08a0e9?logo=twitter&logoColor=e8f5fd&style=flat)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
