@@ -12,6 +12,7 @@
         <li>♥ Relationship: ... Not found ...</li>
     </div>
 </div>
+</br>
 
 <h2><b>My skills</b></h2>
 <li>Linux Basic</li>
