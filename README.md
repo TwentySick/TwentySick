@@ -6,15 +6,18 @@
     <div style="float: right; width: 90%">
         <li>🏫 Student from FPT University</li>
         <li>🌱 Learning cybersecurity</li>
-        <li> 🐟 My zodiac: ♓ Pisces ♓</li>
-        <li> Like Arts, Music (The Beatles and PINK FLOYDDDDDDDDDDDDDDDDDDDDDDD)</li>
+        <li>🐟 My zodiac: ♓ Pisces ♓</li>
+        <li>🎵 Like Arts, Music (The Beatles and PINK FLOYDDDDDDDDDDDDDDDDDDDDDDD)</li>
         <li>🎮 Noob gamer :3 (Just play for relaxing)</li>
-        <li>♥ Relationship: ... Not found ...
+        <li>♥ Relationship: ... Not found ...</li>
     </div>
 </div>
-</br>
+
 <h2><b>My skills</b></h2>
-<p> What should I write here?</p>
+<li>Linux Basic</li>
+<li>Python Basic</li>
+<li>Bash script Basic</li>
+<li>Can understand code of some programming language like C, Java, C++,...</li>
 
 <h2><b>Another things</b></h2>
 <li><a href="https://github.com/TwentySick/CTF">🚩 CTF Writeup</a></li>
