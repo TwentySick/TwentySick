@@ -15,10 +15,7 @@
 </br>
 
 <h2><b>My skills</b></h2>
-<li>Linux Basic</li>
-<li>Python Basic</li>
-<li>Bash script Basic</li>
-<li>Can understand code of some programming language like C, Java, C++,...</li>
+...
 
 <h2><b>Another things</b></h2>
 <li><a href="https://github.com/TwentySick/CTF">🚩 CTF Writeup</a></li>
