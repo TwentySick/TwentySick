@@ -7,9 +7,9 @@
         <li>🏫 Student from FPT University</li>
         <li>🌱 Learning cybersecurity</li>
         <li>🐟 My zodiac: ♓ Pisces ♓</li>
-        <li>🎵 Like Arts, Music (The Beatles and PINK FLOYDDDDDDDDDDDDDDDDDDDDDDD)</li>
+        <li>🎵 Like Arts, Music</li>
         <li>🎮 Noob gamer :3 (Just play for relaxing)</li>
-        <li>♥ Relationship: ... Not found ...</li>
+        <li>♥ Relationship: hi`ahnriel</li>
     </div>
 </div>
 </br>
