@@ -16,5 +16,5 @@
 <p align="center"><i>Made with ☕ and 🐾</i></p>
 
 
-</br></br><center><img alt="cat" src="https://raw.githubusercontent.com/TwentySick/TwentySick/b7241b92c2695ebdbd13d666e0127bb2e437ac1e/cat.gif" /></center>
+</br></br><div align=center><img alt="cat" src="https://raw.githubusercontent.com/TwentySick/TwentySick/b7241b92c2695ebdbd13d666e0127bb2e437ac1e/cat.gif" /></div>
 
